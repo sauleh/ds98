@@ -1,4 +1,4 @@
 ---
-date: 2018-10-03T10:00:00+3:30
+date: 2019-04-18T19:00:00+3:30
 ---
-Sample announcement, Please check out [here](/).
+Course material [page](/course-materials/) updated.

@@ -1,10 +1,31 @@
 instructor:
-  name: Alan Turing
-  profile_pic: /_images/pp/inst.jpg
+  name: Sauleh Eetemadi
+  profile_pic: /_images/eetemadi.jpg
 
 teaching_assistants:
-  - name: Nikola tesla
-    profile_pic: /_images/pp/ta01.jpg
+  - name: Maryam Sadat Hashemi
+    profile_pic: /_images/hashemi.jpg
 
-  - name: Albert Einstein
-    profile_pic: /_images/pp/ta02.jpg
+  - name: Amir Khakpour
+    profile_pic: /_images/khakpour.jpg
+
+  - name: Mahsa Sadat Razavi
+    profile_pic: /_images/razavi.jpg
+
+  - name: Banafeshe Karimian
+    profile_pic: /_images/avatar.png
+
+  - name: Ali Safarpour Dehkordi
+    profile_pic: /_images/avatar.png
+
+  - name: Fateme Tavakoli
+    profile_pic: /_images/avatar.png
+
+  - name: Amir Hossein Amini
+    profile_pic: /_images/avatar.png
+
+  - name: Soheil Rastegar
+    profile_pic: /_images/rastegar.jpg
+
+  - name: Ali Aleyasin
+    profile_pic: /_images/aleyasin.jpg
