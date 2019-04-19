@@ -7,8 +7,8 @@ description: |
     Instructor: Sauleh Eetemadi
 
 message: #Register to our Google <a href="https://groups.google.com/forum/#!forum/gp-id">groups page</a> to get course notifications via email.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://sauleh.github.io/ap97" # the base hostname & protocol for your site
+baseurl: "/ad97" # the subpath of your site, e.g. /blog/
+url: "http://sauleh.github.io" # the base hostname & protocol for your site
 githubdir: 
 
 # Author/user information
