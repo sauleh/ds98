@@ -3,29 +3,32 @@ instructor:
   profile_pic: /_images/eetemadi.jpg
 
 teaching_assistants:
-  - name: Maryam Sadat Hashemi
+  - name: Maryam S. Hashemi
     profile_pic: /_images/hashemi.jpg
+
+  - name: Soheil Rastegar
+    profile_pic: /_images/rastegar.jpg
 
   - name: Amir Khakpour
     profile_pic: /_images/khakpour.jpg
 
-  - name: Mahsa Sadat Razavi
+  - name: Mahsa S. Razavi
     profile_pic: /_images/razavi.jpg
 
   - name: Banafeshe Karimian
     profile_pic: /_images/avatar.png
 
-  - name: Ali Safarpour Dehkordi
-    profile_pic: /_images/avatar.png
+  - name: Ali Aleyasin
+    profile_pic: /_images/aleyasin.jpg
 
   - name: Fateme Tavakoli
     profile_pic: /_images/avatar.png
 
-  - name: Amir Hossein Amini
+  - name: Ali Safarpour Dehkordi
     profile_pic: /_images/avatar.png
 
-  - name: Soheil Rastegar
-    profile_pic: /_images/rastegar.jpg
+  - name: Mahya Khazaei
+    profile_pic: /_images/khazayi.jpg
 
-  - name: Ali Aleyasin
-    profile_pic: /_images/aleyasin.jpg
+  - name: Amir H. Amini
+    profile_pic: /_images/avatar.png
