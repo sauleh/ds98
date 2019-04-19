@@ -9,15 +9,15 @@ permalink: /course-materials/
 ## Books
 
 
-* Dasgupta, Sanjoy, Christos H. Papadimitriou, and Umesh Virkumar Vazirani. Algorithms. McGraw-Hill Higher Education, 2008 <a href="http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf"> PDF </a>
+* Dasgupta, Sanjoy, Christos H. Papadimitriou, and Umesh Virkumar Vazirani. **Algorithms**. McGraw-Hill Higher Education, 2008 <a href="http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf"> PDF </a>
 
-* Cormen, Thomas H., Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein. Introduction to algorithms. MIT press, 2009 (*See course staff to borrow*)
+* Cormen, Thomas H., Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein. **Introduction to algorithms**. MIT press, 2009 (*See course staff to borrow*)
 
-* Compeau, Phillip, and Pavel Pevzner. Bioinformatics algorithms: an active learning approach. Vol. 1 & 2. La Jolla: Active Learning Publishers, 2015 (*See course staff to borrow*)
+* Compeau, Phillip, and Pavel Pevzner. **Bioinformatics algorithms: an active learning approach**. Vol. 1 & 2. La Jolla: Active Learning Publishers, 2015 (*See course staff to borrow*)
 
-* Manber, Udi. Introduction to algorithms: a creative approach. Vol. 4. Reading, MA: Addison-Wesley, 1989 <a href="https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Introduction%20to%20Algorithms_%20A%20Creative%20Approach%20%5BManber%201989-01-11%5D.pdf">PDF</a>
+* Manber, Udi. **Introduction to algorithms: a creative approach**. Vol. 4. Reading, MA: Addison-Wesley, 1989 <a href="https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Introduction%20to%20Algorithms_%20A%20Creative%20Approach%20%5BManber%201989-01-11%5D.pdf">PDF</a>
 
-* Adjeroh, Donald, Timothy Bell, and Amar Mukherjee. The Burrows-Wheeler Transform:: Data Compression, Suffix Arrays, and Pattern Matching. Springer Science & Business Media, 2008. (*See course staff to borrow*)
+* Adjeroh, Donald, Timothy Bell, and Amar Mukherjee. **The Burrows-Wheeler Transform: Data Compression, Suffix Arrays, and Pattern Matching**. Springer Science & Business Media, 2008. (*See course staff to borrow*)
 
 ## Online Courses
 
