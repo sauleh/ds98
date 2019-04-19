@@ -27,7 +27,7 @@ This course closely follows the Data Structure and Algorithms <a href="https://w
 * <a href="https://www.coursera.org/learn/advanced-algorithms-and-complexity">Advanced Algorithms and Complexity</a>
 
 ## Online Material
-In addition to the material above, we will have a lecture on Quantum Computing. There are several excellent online videos that can help you be prepared for the lecture and assignment.
+In addition to the material above, we will have a lecture on **Quantum Computing**. There are several excellent online videos that can help you be prepared for the lecture and assignment.
 * Quantum Computing **for Computer Scientists** (<a href="https://www.microsoft.com/en-us/research/uploads/prod/2018/05/40655.compressed.pdf">slides</a>, <a href="https://www.youtube.com/watch?v=F_Riqjdh2oM">video</a>)
 * Quantum Computing Expert Explains **One Concept in 5 Levels of Difficulty** | WIRED
 (<a href="https://www.youtube.com/watch?v=OWJCfOvochA">YouTube</a>)
