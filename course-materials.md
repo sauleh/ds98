@@ -68,6 +68,7 @@ In addition to the material above, we will have a lecture on **Quantum Computing
 	* Hacking at Quantum Speed with **Shor's Algorithm** | Infinite Series (<a href="https://www.youtube.com/watch?v=wUwZZaI5u0c">YouTube</a>)
 * **Microsoft** Resources for Quantum Computing (<a href="https://www.microsoft.com/en-us/quantum/">link</a>)
 * **IBM** Resources for Quantum Computing (<a href="https://www.research.ibm.com/ibm-q/">link</a>)
+* **<a href="http://math.ipm.ir/~beigi/">Prof. Salman Beigi</a>**'s [lecture notes](http://math.ipm.ir/~beigi/lecture_notes.html) on Quantum Computing.
 
 ## Persian Resources
 
