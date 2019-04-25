@@ -1,7 +1,7 @@
 # Site settings
 title: Iran University of Science and Technology
 course_name: Algorithm Design and Analysis
-course_description: In this course, we aim to introduce students to algorithm thinking with an emphasis on learning through doing. After examining sylabus and course material from top universities including Stanford, Princeton and MIT we have chosen to follow the <a href="https://www.coursera.org/specializations/data-structures-algorithms">Data Structure and Algorithms Specialization</a> developed by <a href="https://alexanderskulikov.github.io/">Alexander S. Kulikov</a> due to excellent course material and its practical approach.
+course_description: In this course, we aim to introduce students to algorithm thinking with an emphasis on learning through doing. After examining sylabus and course material from top universities including <a href="https://www.coursera.org/specializations/algorithms">Stanford</a>, <a href="http://www.princeton.edu/~cos226">Princeton</a> and <a href=https://courses.csail.mit.edu/6.006/>MIT</a> we have chosen to follow the <a href="https://www.coursera.org/specializations/data-structures-algorithms">Data Structure and Algorithms Specialization</a> developed by <a href="https://alexanderskulikov.github.io/">Alexander S. Kulikov</a> due to excellent course material and its practical approach.
 course_semester: "Spring 2019"
 description: |
     Instructor: Sauleh Eetemadi
