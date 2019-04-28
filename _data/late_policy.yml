@@ -1,4 +1,6 @@
 policies:
-  - You have free 8 late days.
-  - You can use late days for assignments. A late day extends the deadline 24 hours.
-  - Once you have used all 8 late days, the penalty is 10% for each additional late day.
+  - You have  3 free late days (or 72 hours) plus any late days explicity added during the semester (3 so far).
+  - You can use late days for assignments. Late days are calculated per hour.
+  - Once you have used all free late days/hours, you do not recive any credit for the assignment.
+  - You can only get a passing grade for the course if you get more than half the score for **every** assignment.
+  - Thus, if you don't complete all questions before the deadline, submit what you have.
