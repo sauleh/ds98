@@ -66,6 +66,7 @@ In addition to the material above, we will have a lecture on **Quantum Computing
 	* **The Mathematics** of Quantum Computers | Infinite Series (<a href="https://www.youtube.com/watch?v=IrbJYsep45E">YouTube</a>)
 	* How to **Break Cryptography** | Infinite Series (<a href="https://www.youtube.com/watch?v=12Q3Mrh03Gk">YouTube</a>)
 	* Hacking at Quantum Speed with **Shor's Algorithm** | Infinite Series (<a href="https://www.youtube.com/watch?v=wUwZZaI5u0c">YouTube</a>)
+* **Shor's Algorithm** Explained ([YouTube](https://www.youtube.com/watch?v=lvTqbM5Dq4Q))
 * **Microsoft** Resources for Quantum Computing (<a href="https://www.microsoft.com/en-us/quantum/">link</a>)
 * **IBM** Resources for Quantum Computing (<a href="https://www.research.ibm.com/ibm-q/">link</a>)
 * **<a href="http://math.ipm.ir/~beigi/">Prof. Salman Beigi</a>**'s [lecture notes](http://math.ipm.ir/~beigi/lecture_notes.html) on Quantum Computing.
