@@ -21,4 +21,19 @@
       {{ include.lecture.codes | prepend: site.baseurl }} 
     {% endif %}">codes</a>]
     {% endif %}
+    {% if include.lecture.link1 %}
+    [<a title="Link1" href="{{ include.lecture.link1 }} ">link1</a>]
+    {% endif %}
+    {% if include.lecture.link2 %}
+    [<a title="Link2" href="{{ include.lecture.link2 }} ">link2</a>]
+    {% endif %}
+    {% if include.lecture.link3 %}
+    [<a title="Link3" href="{{ include.lecture.link3 }} ">link3</a>]
+    {% endif %}
+    {% if include.lecture.link4 %}
+    [<a title="Link4" href="{{ include.lecture.link4 }} ">link4</a>]
+    {% endif %}
+    {% if include.lecture.link5 %}
+    [<a title="Link5" href="{{ include.lecture.link5 }} ">link5</a>]
+    {% endif %}
 </div>
