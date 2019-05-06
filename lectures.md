@@ -24,7 +24,7 @@ You can download the lectures here (in PDF format). I will try to upload lecture
               {{ lecture.slides }} 
             {% else %}
               {{ lecture.slides | prepend: site.baseurl }} 
-            {% endif %}">{{ lecture.title }}</a></span><br>
+            {% endif %}">{{ lecture.title }}</a></span>
 
         <!--<strong>tldr:</strong> {{ lecture.tldr }}-->
         <br/>
