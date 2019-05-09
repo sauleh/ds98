@@ -60,6 +60,7 @@ Professor [Richard Buckland's](https://www.cse.unsw.edu.au/~richardb/) [course](
 ## Quantum Computing Resources
 In addition to the material above, we will have a lecture on **Quantum Computing**. There are several excellent online videos that can help you be prepared for the lecture and assignment.
 * Quantum Computing **for Computer Scientists** (<a href="https://www.microsoft.com/en-us/research/uploads/prod/2018/05/40655.compressed.pdf">slides</a>, <a href="https://www.youtube.com/watch?v=F_Riqjdh2oM">video</a>)
+* The <a href="https://www.youtube.com/playlist?list=PLQY2H8rRoyvwcpm6Nf-fL4sIYQUXtq3HR">QuantumCasts</a> Series by Google.
 * Quantum Computing Expert Explains **One Concept in 5 Levels of Difficulty** | WIRED
 (<a href="https://www.youtube.com/watch?v=OWJCfOvochA">YouTube</a>)
 * **Infinite Series** on Quantum Computing
