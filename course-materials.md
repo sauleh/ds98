@@ -43,19 +43,15 @@ Professor [Richard Buckland's](https://www.cse.unsw.edu.au/~richardb/) [course](
 ## Algorithm Design at Other Universities
 
 * **MIT** maintains an [archive](https://courses.csail.mit.edu/6.006/) of their **6.006: Introduction to Algorithms** course websites for many semesters since 2007. This is an excellent resource for finding problem sets, exams, quizes and their solution. We often explore this resource looking for suitable questions for our quizes and exams. Help yourself 😊. They have also recorded the lectures for a number of years ([Spring 2015](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/), [Fall 2011](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/), [Fall 2005](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/)) on [MIT Open Courseware](https://ocw.mit.edu/index.htm).
-
 * **Princeton** University's Spring 2019 offering of COS226 ([course website](http://www.cs.princeton.edu/courses/archive/spring19/cos226/)). Latest offering [link](http://www.princeton.edu/~cos226). Previous offerings: ([S19](http://www.cs.princeton.edu/courses/archive/spring19/cos226/), [F18](http://www.cs.princeton.edu/courses/archive/fall18/cos226/), [S18](http://www.cs.princeton.edu/courses/archive/spring18/cos226/), [F17](http://www.cs.princeton.edu/courses/archive/fall17/cos226/), [S17](http://www.cs.princeton.edu/courses/archive/spring17/cos226/), [F16](http://www.cs.princeton.edu/courses/archive/fall16/cos226/), [F15](http://www.cs.princeton.edu/courses/archive/fall15/cos226/), [S15](http://www.cs.princeton.edu/courses/archive/spring15/cos226/), [F14](http://www.cs.princeton.edu/courses/archive/fall14/cos226/), [S14](http://www.cs.princeton.edu/courses/archive/spring14/cos226/), [F13](http://www.cs.princeton.edu/courses/archive/fall13/cos226/), [S13](http://www.cs.princeton.edu/courses/archive/spring13/cos226/), [F12](http://www.cs.princeton.edu/courses/archive/fall12/cos226/), [S12](http://www.cs.princeton.edu/courses/archive/spring12/cos226/), [F11](http://www.cs.princeton.edu/courses/archive/fall11/cos226/), [S11](http://www.cs.princeton.edu/courses/archive/spring11/cos226/), [F10](http://www.cs.princeton.edu/courses/archive/fall10/cos226/), [S10](http://www.cs.princeton.edu/courses/archive/spring10/cos226/), [F09](http://www.cs.princeton.edu/courses/archive/fall09/cos226/), [S09](http://www.cs.princeton.edu/courses/archive/spring09/cos226/), [F08](http://www.cs.princeton.edu/courses/archive/fall08/cos226/), [S08](http://www.cs.princeton.edu/courses/archive/spring08/cos226/), [S05](http://www.cs.princeton.edu/courses/archive/spring05/cos226/), [F02](http://www.cs.princeton.edu/courses/archive/fall02/cos226/))
-
 * **Purdue** University's Spring 2019 offering [website](https://www.cs.purdue.edu/homes/jblocki/courses/580_Spring19/).
-
 * UC **Berkeley's** Efficient Algorithms and Intractable Problems course [website](https://cs170.org/).
-
 * **UIUC**: Prof. *Jeff Erickson* at UIUC is the author of a [book](http://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf) on Algorithms and maintains a [website](http://jeffe.cs.illinois.edu/teaching/algorithms/) for the algorithms course taught at UIUC. The website contains excellent course material including problem sets, quizes and exams.
-
 * U of **Waterloo's** Algorithm course taught by Prof. [Douglas Harder](https://ece.uwaterloo.ca/~dwharder/aads/) and [Carlos Moreno
 ](https://ece.uwaterloo.ca/~cmoreno/ece250/index.shtml).
-
 * **Sharif** University of Technology's current offering course [website](http://ce.sharif.edu/~safarnejad/ce254/) for *Data Structure and Algorithms*, and also *Algorithm Design* course [website](http://ce.sharif.edu/courses/97-98/2/ce354-2/index.php).
+* Algorithms Graduate Course at [**Georgia Tech**](https://gt-algorithms.com/) also available on [Udacity](https://www.udacity.com/course/introduction-to-graduate-algorithms--ud401)
+
 
 ## Quantum Computing Resources
 In addition to the material above, we will have a lecture on **Quantum Computing**. There are several excellent online videos that can help you be prepared for the lecture and assignment.
@@ -71,6 +67,7 @@ In addition to the material above, we will have a lecture on **Quantum Computing
 * **Microsoft** Resources for Quantum Computing (<a href="https://www.microsoft.com/en-us/quantum/">link</a>)
 * **IBM** Resources for Quantum Computing (<a href="https://www.research.ibm.com/ibm-q/">link</a>)
 * **<a href="http://math.ipm.ir/~beigi/">Prof. Salman Beigi</a>**'s [lecture notes](http://math.ipm.ir/~beigi/lecture_notes.html) on Quantum Computing.
+* UC Berkeley's [Quantum Lab](https://berkeleyquantum.org/)
 
 ## Persian Resources
 
@@ -82,6 +79,12 @@ In addition to the material above, we will have a lecture on **Quantum Computing
 	* Data Structures [course](https://maktabkhooneh.org/course/118/) by Prof. Mohammad Ali Abam taught at **Sharif** University of Technology.
 * **Faradars's** Algorithms course on [YouTube](https://www.youtube.com/playlist?list=PL0OiLinzHyytn3HP2kHVrNO3sitNwJ8Cw).
 * **Algorithmha** [portal](http://www.algorithmha.ir/)
+
+## Algorithms Research Labs
+* [**Georgia Tech** Algorithm and Randomness Center](http://arc.gatech.edu/)
+* [**IBM**'s Algorithms and Theory Group](https://researcher.watson.ibm.com/researcher/view_group.php?id=134)
+* [**Google**'s Algorithms and Optimization Team](https://ai.google/research/teams/algorithms-optimization/)
+* [The Algorithms Group at **MIT**](http://theory.csail.mit.edu/groups/algorithms.html)
 
 ## Programming Resources
 All programming assignments are in C#. Here are some resources to get you up to speed with C#.
