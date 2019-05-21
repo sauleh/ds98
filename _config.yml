@@ -50,6 +50,7 @@ defaults:
       type: "assignments"
     values:
       layout: "assignment"
+      comments: false
 
 
 
