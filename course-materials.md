@@ -68,6 +68,11 @@ In addition to the material above, we will have a lecture on **Quantum Computing
 * **IBM** Resources for Quantum Computing (<a href="https://www.research.ibm.com/ibm-q/">link</a>)
 * **<a href="http://math.ipm.ir/~beigi/">Prof. Salman Beigi</a>**'s [lecture notes](http://math.ipm.ir/~beigi/lecture_notes.html) on Quantum Computing.
 * UC Berkeley's [Quantum Lab](https://berkeleyquantum.org/)
+* [List](https://quantumcomputingreport.com/players/universities/) of universities with Quantum Computing research groups. 
+* University of Waterloo [Institute for Quantum Computing](https://uwaterloo.ca/institute-for-quantum-computing/)
+* Notable Quantum Computing Researchers
+	* [Aram Harrow](https://www.mit.edu/~aram/)
+	* [Peter Shor](http://math.mit.edu/~shor/)
 
 ## Persian Resources
 
