@@ -70,6 +70,7 @@ In addition to the material above, we will have a lecture on **Quantum Computing
 * UC Berkeley's [Quantum Lab](https://berkeleyquantum.org/)
 * [List](https://quantumcomputingreport.com/players/universities/) of universities with Quantum Computing research groups. 
 * University of Waterloo [Institute for Quantum Computing](https://uwaterloo.ca/institute-for-quantum-computing/)
+* Google's [Quantum AI Group](https://ai.google/research/teams/applied-science/quantum-ai/)
 * Notable Quantum Computing Researchers
 	* [Aram Harrow](https://www.mit.edu/~aram/)
 	* [Peter Shor](http://math.mit.edu/~shor/)
@@ -101,3 +102,7 @@ All programming assignments are in C#. Here are some resources to get you up to 
 * **Object Oriented Programming using C#** (read online [here](https://bookboon.com/premium/reader/object-oriented-programming-using-c-sharp))
 * **Data Structures and Algorithms** with Object-Oriented **Design Patterns** in C# (web archive [here](https://web.archive.org/web/20161207142802/http://www.brpreiss.com/books/opus6/))
 * Learn how to program: C# from [Epicodus Inc.]([)https://www.learnhowtoprogram.com/c)
+
+## Other Algorithms Material Collection
+* Excellent [collection](https://github.com/prakhar1989/awesome-courses#algorithms) by [Prakhar Srivastav](https://prakhar.me/).
+* Preparation [notes/material](https://www.codechef.com/certification/data-structures-and-algorithms/prepare) for the CodeChef Certified Data Structure & Algorithms Programme (CCDSAP).

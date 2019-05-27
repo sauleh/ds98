@@ -8,7 +8,7 @@ link2: http://marekrychlik.com/cgi-bin/gauss.cgi
 link3: https://www.zweigmedia.com/RealWorld/LPGrapher/lpg.html
 link4: https://www.desmos.com/calculator
 link5: http://grapher.mathpix.com/
-
+link6: https://www.zweigmedia.com/RealWorld/tutorialsf4/framesSimplex.html
 hide_from_announcments: false
 #notes: /static_files/presentations/lec.zip
 #codes: /static_files/presentations/code.zip
