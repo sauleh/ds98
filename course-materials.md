@@ -74,6 +74,7 @@ In addition to the material above, we will have a lecture on **Quantum Computing
 * Notable Quantum Computing Researchers
 	* [Aram Harrow](https://www.mit.edu/~aram/)
 	* [Peter Shor](http://math.mit.edu/~shor/)
+* Comprehnsive list of [Quantum Algorithms](https://quantumalgorithmzoo.org/)
 
 ## Persian Resources
 
