@@ -1,14 +1,14 @@
 # Site settings
 title: Iran University of Science and Technology
-course_name: Algorithm Design and Analysis
+course_name: Data Structure
 course_description: In this course, we aim to introduce students to algorithm thinking with an emphasis on learning through doing. After examining sylabus and course material from top universities including <a href="https://www.coursera.org/specializations/algorithms">Stanford</a>, <a href="http://www.princeton.edu/~cos226">Princeton</a> and <a href=https://courses.csail.mit.edu/6.006/>MIT</a> we have chosen to follow the <a href="https://www.coursera.org/specializations/data-structures-algorithms">Data Structure and Algorithms Specialization</a> developed by <a href="https://alexanderskulikov.github.io/">Alexander S. Kulikov</a> due to excellent course material and its practical approach.
-course_semester: "Spring 2019 "
+course_semester: "Fall 2018"
 description: |
     Instructor: Sauleh Eetemadi
 
 message: #Register to our Google <a href="https://groups.google.com/forum/#!forum/gp-id">groups page</a> to get course notifications via email.
-baseurl: "/ad97" # the subpath of your site, e.g. /blog/
-url: "http://sauleh.github.io/ad97" # the base hostname & protocol for your site
+baseurl: "/ds97" # the subpath of your site, e.g. /blog/
+url: "http://sauleh.github.io/ds97" # the base hostname & protocol for your site
 githubdir: 
 
 # Author/user information
