@@ -8,7 +8,7 @@ You can download the lectures here (in PDF format). I will try to upload lecture
 
 
 <ul id="archive">
-{% for lecture in site.lectures reversed %}
+{% for lecture in site.lectures %}
 <li class="archiveposturl" style="background: transparent">
 <div class="lecture-container">
     {% if lecture.thumbnail %}
