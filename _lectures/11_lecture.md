@@ -1,8 +1,8 @@
 ---
 type: lecture
 date: 2019-05-13T8:00:00+4:30
-title: Advanced Algorithms - NP Complete Problems
-slides: /static_files/presentations/aa3.zip
+title: Graph Algorithms - Graph Decomposition
+slides: /static_files/presentations/week1_and_2_graph_decomposition.zip
 hide_from_announcments: false
 #notes: /static_files/presentations/lec.zip
 #codes: /static_files/presentations/code.zip
