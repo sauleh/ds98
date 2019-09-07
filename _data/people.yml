@@ -3,8 +3,36 @@ instructor:
   profile_pic: /_images/eetemadi.jpg
 
 teaching_assistants:
+  - name: Alireza Moradi
+    profile_pic: /_images/alireza-moradi.jpg
+
+  - name: Ghazale Mahmoudi
+    profile_pic: /_images/keyvan-mirshekari.jpg
+
+  - name: Mahdi Moghadami
+    profile_pic: /_images/mahdi-moghaddami.jpg
+
   - name: Maryam S. Hashemi
     profile_pic: /_images/hashemi.jpg
 
-  - name: Amirreza Amouie
-    profile_pic: /_images/amouie.jpg
+  - name: Mohammad Javad Mirshekari
+    profile_pic: /_images/keyvan-mirshekari.jpg
+
+  - name: Mohammad Javad Pirhadi
+    profile_pic: /_images/keyvan-mirshekari.jpg
+    
+  - name: Mohammad Mahdi Abdollahpour
+    profile_pic: /_images/avatar.png    
+
+  - name: Mahsa Ghaderan
+    profile_pic: /_images/avatar.png
+
+  - name: Motahare Mirzaei
+    profile_pic: /_images/avatar.png
+
+  - name: Parisa Yalsavar
+    profile_pic: /_images/avatar.png
+
+  - name: Sara Kodeiri
+    profile_pic: /_images/sara-kodeyri.jpg
+    
