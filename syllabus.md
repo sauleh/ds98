@@ -6,7 +6,7 @@ permalink: /syllabus/
 
 # Schedule
 
-|Week|Saturday|Sunday |    Lecture Topic                  | HW Topic                       |HW Release|   TA1    |    TA2     |Occasion|
+|Week|Saturday|Monday |    Lecture Topic                  | HW Topic                       |HW Release|   TA1    |    TA2     |Occasion|
 |:--:|:------:|:-----:|:---------------------------------:|:------------------------------:|:------:|:----------:|:----------:|--------|
 | 1  |  6/30  |  7/01 | Algorithmic Warmup                | a+b: introducing the framework | A1     |  Mahmoudi  | Mirshekari | |
 | 2  |  7/6   |  7/08 | Greedy Algorithms                 | Programming  Challenges        | A2, W1 |  Yalsavar  | Moradi     | |
