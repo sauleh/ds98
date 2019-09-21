@@ -11,17 +11,17 @@ permalink: /syllabus/
 | 1  |  6/30  |  7/01 | Algorithmic Warmup                | a+b: introducing the framework | A1     |  Mahmoudi  | Mirshekari | |
 | 2  |  7/6   |  7/08 | Greedy Algorithms                 | Programming  Challenges        | A2, W1 |  Yalsavar  | Moradi     | |
 | 3  |  7/13  |  7/15 | Divide and Conquer                | Algorithmic Warmup             | A3     |  Pirhadi   | Mirzaei    | Saturday Off |
-| 4  |  7/20  |  7/22 | Dynamic Programming 1             | Greedy Algorithms              | A4     |Abdollahpour|            | Sunday & Tuesday Off |
+| 4  |  7/20  |  7/22 | Dynamic Programming 1             | Greedy Algorithms              | A4     |Abdollahpour| Kodeiri    | Sunday & Tuesday Off |
 | 5  |  7/27  |  7/29 | Dynamic Programming 2             | Programming Exam 1             | E1     |  Ghaderan  | Moghadami  | |
 | 6  |  8/04  |  8/06 | Basic Data Structures             | Divide and Conquer             | A5, W2 |  Mahmoudi  | Mirshekari | |
 | 7  |  8/11  |  8/13 | Dynamic Array + Amortized Analysis| Dynamic Programming 1          | A6     |  Yalsavar  | Moradi     | Wednesday Off |
 | 8  |  8/18  |  8/20 | Priority Queue and Disjoint Set   | Dynamic Programming 2          | A7     |  Pirhadi   | Mirzaei    | Basic Sceince Midterms |
-| 9  |  8/25  |  8/27 | Hashing                           | Basic Data Structures          | A8     |Abdollahpour|            | Basic Sceince Midterms |
+| 9  |  8/25  |  8/27 | Hashing                           | Basic Data Structures          | A8     |Abdollahpour| Kodeiri    | Basic Sceince Midterms |
 | 10 |  9/02  |  9/04 | BST 1                             | Priority Queue and Disjoint Set| A9     |  Ghaderan  | Moghadami  | Basic Sceince Midterms |
 | 11 |  9/09  |  9/11 | BST 2                             | Hash Table and Hash Functions  | A10    |  Mahmoudi  | Mirshekari | |
 | 12 |  9/16  |  9/18 | Graph Decomposition 1             | BST                            | A11    |  Yalsavar  | Moradi     | |
 | 13 |  9/23  |  9/25 | Graph Decomposition 2             | Programming Exam 2             | E2     |  Pirhadi   | Mirzaei    | |
-| 14 |  9/30  | 10/02 | Red-black Tree, B-Tree            | Graph1                         | A12, W3|Abdollahpour|            | |
+| 14 |  9/30  | 10/02 | Red-black Tree, B-Tree            | Graph1                         | A12, W3|Abdollahpour| Kodeiri    | |
 | 15 | 10/07  | 10/09 | Review                            | Graph2                         | A13    |  Ghaderan  | Moghadami  | |
 
 
