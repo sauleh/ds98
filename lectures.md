@@ -8,7 +8,7 @@ You can download the lectures here (in PDF format). I will try to upload lecture
 
 
 <ul id="archive">
-{% for lecture in site.lectures %}
+{% for lecture in site.lectures reversed %}
 <li class="archiveposturl" style="background: transparent">
 <div class="lecture-container">
     {% if lecture.thumbnail %}
@@ -24,12 +24,17 @@ You can download the lectures here (in PDF format). I will try to upload lecture
               {{ lecture.slides }} 
             {% else %}
               {{ lecture.slides | prepend: site.baseurl }} 
-            {% endif %}">{{ lecture.title }}</a></span>
+            {% endif %}">{{ lecture.title }}</a>
+        </span><br>
 
-        <!--<strong>tldr:</strong> {{ lecture.tldr }}-->
-        <br/>
+        {% if lecture.tldr %}
+            <strong>tl;dr:</strong> 
+            {{ lecture.tldr }}
+            <br/>
+        {% endif %}
+
         <strong>
-        {% include lecture_links.html lecture=lecture %}
+            {% include lecture_links.html lecture=lecture %}
         </strong>
     </div>
 </div>
