@@ -10,10 +10,10 @@ permalink: /syllabus/
 |:--:|:------:|:-----:|:---------------------------------:|:------------------------------:|:------:|:----------:|:----------:|--------|
 | 1  |  6/30  |  7/01 | Algorithmic Warmup                | a+b: introducing the framework | A1     |  Mahmoudi  | Mirshekari | |
 | 2  |  7/6   |  7/08 | Greedy Algorithms                 | Programming  Challenges        | A2, W1 |  Yalsavar  | Moradi     | |
-| 3  |  7/13  |  7/15 | Divide and Conquer                | Algorithmic Warmup             | A3     |  Pirhadi   | Mirzaei    | Saturday Off |
-| 4  |  7/20  |  7/22 | Dynamic Programming 1             | Greedy Algorithms              | A4     |Abdollahpour| Kodeiri    | Sunday & Tuesday Off |
-| 5  |  7/27  |  7/29 | Dynamic Programming 2             | Programming Exam 1             | E1     |  Ghaderan  | Moghadami  | |
-| 6  |  8/04  |  8/06 | Basic Data Structures             | Divide and Conquer             | A5, W2 |  Mahmoudi  | Mirshekari | |
+| 3  |  7/13  |  7/15 | Divide and Conquer                | Algorithmic Warmup             | A3     |  Pirhadi   | Mirzaei    | |
+| 4  |  7/20  |  7/22 | Dynamic Programming 1             | Greedy Algorithms              | A4     |Abdollahpour| Kodeiri    | |
+| 5  |  7/27  |  7/29 | Dynamic Programming 2             | Programming Exam 1             | E1     |  Ghaderan  | Moghadami  | Saturday Off |
+| 6  |  8/04  |  8/06 | Basic Data Structures             | Divide and Conquer             | A5, W2 |  Mahmoudi  | Mirshekari | Sunday & Tuesday Off |
 | 7  |  8/11  |  8/13 | Dynamic Array + Amortized Analysis| Dynamic Programming 1          | A6     |  Yalsavar  | Moradi     | Wednesday Off |
 | 8  |  8/18  |  8/20 | Priority Queue and Disjoint Set   | Dynamic Programming 2          | A7     |  Pirhadi   | Mirzaei    | Basic Sceince Midterms |
 | 9  |  8/25  |  8/27 | Hashing                           | Basic Data Structures          | A8     |Abdollahpour| Kodeiri    | Basic Sceince Midterms |
