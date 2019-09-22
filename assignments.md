@@ -6,6 +6,8 @@ permalink: /assignments/
 
 You can download the assignments here (in PDF format). Also check out assignment's pages for any additional info.
 
+**Instructor's account and TA's shared account must be given admin access to AzureDevOps.** Please see instructions [here](../static_files/docs/AdminAccess.pdf).
+
 
 <ul id="archive">
 {% for asg in site.assignments reversed %}
