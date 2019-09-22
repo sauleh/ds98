@@ -435,10 +435,10 @@ a.tosu {
     margin-right: 10px;
     background-position: center;
     background-size: contain;
-  }
-  
-  /* Set the image to fill its parent and make transparent */
-  .center-cropped img {
+}
+
+/* Set the image to fill its parent and make transparent */
+.center-cropped img {
     min-height: 100%;
     min-width: 100%;
     /* IE 8 */
@@ -447,72 +447,86 @@ a.tosu {
     filter: alpha(opacity=0);
     /* modern browsers */
     opacity: 0;
-  }
+}
 
-  .lecture-container {
-  
+.lecture-container {
+
     display: flex;
     width: 100%;
     padding-top: 10px;
     padding-bottom: 10px;
-    
-    .thumbnail {
-      width: 120px;
-    }
-    
-    .content {
-      flex: 1;
-    }
-  }
 
-  .previous-offerings{
+    .thumbnail {
+        width: 120px;
+    }
+
+    .content {
+        flex: 1;
+    }
+}
+
+.previous-offerings {
     list-style-type: none;
-    
+
 
     li {
         display: inline-block;
-        margin-right: 10px; 
+        margin-right: 10px;
     }
 
     li::before {
         content: "● ";
-        color:black;
+        color: black;
         padding-right: 5px;
-    } 
-  }
+    }
+}
 
-  .lecture-links {
-      font-weight: bold;
-      font-family: 'Titillium Web', sans-serif;
-  }
+.lecture-links {
+    font-weight: bold;
+    font-family: 'Titillium Web', sans-serif;
+}
 
-  .schedule-lecture-links {
+.schedule-lecture-links {
     font-weight: normal;
-    font-family: inherit;    
-  }
-  
-  article table {
-    padding: 0; }
-    table tr {
-      border-top: 1px solid #cccccc;
-      background-color: white;
-      margin: 0;
-      padding: 0; }
-      table tr:nth-child(2n) {
-        background-color: #f8f8f8; }
-      table tr th {
-        font-weight: bold;
-        border: 1px solid #cccccc;
-        text-align: left;
-        margin: 0;
-        padding: 6px 13px; }
-      table tr td {
-        border: 1px solid #cccccc;
-        text-align: left;
-        margin: 0;
-        padding: 6px 13px; }
-      table tr th :first-child, table tr td :first-child {
-        margin-top: 0; }
-      table tr th :last-child, table tr td :last-child {
-        margin-bottom: 0; 
+    font-family: inherit;
+}
+
+article table {
+    padding: 0;
+}
+
+article table tr {
+    border-top: 1px solid #cccccc;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+
+article table tr:nth-child(2n) {
+    background-color: #f8f8f8;
+}
+
+article table tr th {
+    font-weight: bold;
+    border: 1px solid #cccccc;
+    text-align: left;
+    margin: 0;
+    padding: 6px 13px;
+}
+
+article table tr td {
+    border: 1px solid #cccccc;
+    text-align: left;
+    margin: 0;
+    padding: 6px 13px;
+}
+
+article table tr th :first-child,
+article table tr td :first-child {
+    margin-top: 0;
+}
+
+article table tr th :last-child,
+article table tr td :last-child {
+    margin-bottom: 0;
 }
