@@ -9,7 +9,7 @@ permalink: /course-materials/
 ## Books
 * Dasgupta, Sanjoy, Christos H. Papadimitriou, and Umesh Virkumar Vazirani. **Algorithms**. McGraw-Hill Higher Education, 2008 <a href="http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf"> PDF </a>
 
-* Cormen, Thomas H., Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein. **Introduction to algorithms**. MIT press, 2009 (*See course staff to borrow*)
+* Cormen, Thomas H., Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein. **Introduction to algorithms**. MIT press, 2009 <a href="https://ms.sapientia.ro/~kasa/Algorithms_3rd.pdf">PDF</a>
 
 * Compeau, Phillip, and Pavel Pevzner. **Bioinformatics algorithms: an active learning approach**. Vol. 1 & 2. La Jolla: Active Learning Publishers, 2015 (*See course staff to borrow*)
 
