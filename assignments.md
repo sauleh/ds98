@@ -10,6 +10,10 @@ You can download the assignments here (in PDF format). Also check out assignment
 
 Also please see [this](https://drive.iust.ac.ir/index.php/s/S9pCGxfQQdumMmE/download?path=%2FVideos&files=Pipeline.mp4) for creating the correct **build pipeline** for .NET Core in AzureDevOps. 
 
+
+Please see [this](https://drive.iust.ac.ir/index.php/s/S9pCGxfQQdumMmE/download?path=%2FVideos&files=TestCommonPullRequest.mp4) video for instructions on how to get the TestCommon library required programming assignments.
+
+
 <ul id="archive">
 {% for asg in site.assignments reversed %}
       <li class="archiveposturl" style="background: transparent">
