@@ -58,4 +58,6 @@ According to univesity guidlines, students who miss more than 6 sessions are not
 TA Classes will be held on Mondays from 12:30 till 2:30 in room -120.
 
 # TA Office Hours
-To Be Announced
+Location: Basement Computer Lab (site), TA Help Desk #1
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=7&amp;bgcolor=%2333B679&amp;ctz=Asia%2FTehran&amp;src=NXBlZzdzYms0ZXFpZXFqZjdlanJiMXFqa2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%237986CB&amp;mode=WEEK" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
