@@ -7,7 +7,7 @@ permalink: /course-materials/
 {% include image.html url="/_images/clrsbook.jpg" width=175 align="right" %}
 
 ## Books
-* Cormen, Thomas H., Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein. **Introduction to algorithms**. MIT press, 2009 <a href="https://ms.sapientia.ro/~kasa/Algorithms_3rd.pdf">PDF</a>
+* Cormen, Thomas H., Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein. **Introduction to algorithms**. MIT press, 2009 <a href="http://web.karabuk.edu.tr/hakankutucu/CME222/MIT[1].Press.Introduction.to.Algorithms.2nd.Edition.eBook-TLFeBOOK.pdf">PDF</a>
 
 * Narasimha Karumanchi. **Data Structures and Algorithms Made Easy**. CareerMonk Plublications, 5 edition.
 
