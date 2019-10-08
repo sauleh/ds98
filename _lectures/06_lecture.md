@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2019-10-07T8:00:00+4:30
-title: Session 5 - Divide and Conqure.
+title: Session 6 - Divide and Conqure - Continued
 slides: https://drive.iust.ac.ir/index.php/s/S9pCGxfQQdumMmE/download?path=%2FSlides&files=S6.pdf
 video: https://drive.iust.ac.ir/index.php/s/S9pCGxfQQdumMmE/download?path=%2FVideos&files=S6.mp4
 #codes: https://drive.iust.ac.ir/index.php/s/pvH40tElHCvu3MG/download?path=%2FCode&files=S5.zip
