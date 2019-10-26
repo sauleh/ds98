@@ -13,16 +13,16 @@ permalink: /syllabus/
 | 3  |  7/13  |  7/15 | Divide and Conquer                | Algorithmic Warmup             | A3     |  Pirhadi   | Mirzaei    | |
 | 4  |  7/20  |  7/22 | Dynamic Programming 1             | Greedy Algorithms              | A4     |Abdollahpour| Kodeiri    | |
 | 5  |  7/27  |  7/29 | Dynamic Programming 2             | Programming Exam 1             | E1     |  Ghaderan  | Moghadami  | Saturday Off |
-| 6  |  8/04  |  8/06 | Basic Data Structures             | Divide and Conquer             | A5, W2 |  Mahmoudi  | Mirshekari | Sunday & Tuesday Off |
-| 7  |  8/11  |  8/13 | Dynamic Array + Amortized Analysis| Dynamic Programming 1          | A6     |  Yalsavar  | Moradi     | Wednesday Off |
-| 8  |  8/18  |  8/20 | Priority Queue and Disjoint Set   | Dynamic Programming 2          | A7     |  Pirhadi   | Mirzaei    | Basic Sceince Midterms |
-| 9  |  8/25  |  8/27 | Hashing                           | Basic Data Structures          | A8     |Abdollahpour| Kodeiri    | Basic Sceince Midterms |
-| 10 |  9/02  |  9/04 | BST 1                             | Priority Queue and Disjoint Set| A9     |  Ghaderan  | Moghadami  | Basic Sceince Midterms |
-| 11 |  9/09  |  9/11 | BST 2                             | Hash Table and Hash Functions  | A10    |  Mahmoudi  | Mirshekari | |
-| 12 |  9/16  |  9/18 | Graph Decomposition 1             | BST                            | A11    |  Yalsavar  | Moradi     | |
-| 13 |  9/23  |  9/25 | Graph Decomposition 2             | Programming Exam 2             | E2     |  Pirhadi   | Mirzaei    | |
-| 14 |  9/30  | 10/02 | Red-black Tree, B-Tree            | Graph1                         | A12, W3|Abdollahpour| Kodeiri    | |
-| 15 | 10/07  | 10/09 | Review                            | Graph2                         | A13    |  Ghaderan  | Moghadami  | |
+| 6  |  8/04  |  8/06 | Dynamic Programming 3             | Divide and Conquer             | A5, W2 |  Mahmoudi  | Mirshekari | Sunday & Tuesday Off |
+| 7  |  8/11  |  8/13 | Basic Data Structures             | Dynamic Programming 1          | A6     |  Yalsavar  | Moradi     | Wednesday Off |
+| 8  |  8/18  |  8/20 | Dynamic Array + Amortized Analysis| Dynamic Programming 2          | A7     |  Pirhadi   | Mirzaei    | Basic Sceince Midterms |
+| 9  |  8/25  |  8/27 | Priority Queue and Disjoint Set   | Basic Data Structures          | A8     |Abdollahpour| Kodeiri    | Basic Sceince Midterms |
+| 10 |  9/02  |  9/04 | Hashing                           | Priority Queue and Disjoint Set| A9     |  Ghaderan  | Moghadami  | Basic Sceince Midterms |
+| 11 |  9/09  |  9/11 | BST 1                             | Hash Table and Hash Functions  | A10    |  Mahmoudi  | Mirshekari | |
+| 12 |  9/16  |  9/18 | BST 2                             | BST                            | A11    |  Yalsavar  | Moradi     | |
+| 13 |  9/23  |  9/25 | Graph Decomposition 1             | Programming Exam 2             | E2     |  Pirhadi   | Mirzaei    | |
+| 14 |  9/30  | 10/02 | Graph Decomposition 2             | Graph1                         | A12, W3|Abdollahpour| Kodeiri    | |
+| 15 | 10/07  | 10/09 | Red-black Tree, B-Tree            | Graph2                         | A13    |  Ghaderan  | Moghadami  | |
 
 
   * A*: Programming Assignments
