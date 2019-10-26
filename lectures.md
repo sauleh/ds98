@@ -37,6 +37,12 @@ Alternatively, you can download the latex template from [here](../static_files/r
             <br/>
         {% endif %}
 
+        {% if lecture.notetaker %}
+            <strong>Note Taker:</strong> 
+            {{ lecture.notetaker }}
+            <br/>
+        {% endif %}
+
         <strong>
             {% include lecture_links.html lecture=lecture %}
         </strong>
