@@ -8,4 +8,5 @@ video: https://drive.iust.ac.ir/index.php/s/S9pCGxfQQdumMmE/download?path=%2FVid
 ext_slides: /static_files/presentations/m1_week4_divide_and_conquer.zip
 tldr: "Divide and Conqure: We spent more time on polynomial multiplication, then moved onto the master theorem and finished with merge sort."
 #thumbnail: /static_files/presentations/lec.jpg
+notetaker: خانم ملیکا نوبختیان
 ---

@@ -8,4 +8,5 @@ video: https://drive.iust.ac.ir/index.php/s/S9pCGxfQQdumMmE/download?path=%2FVid
 ext_slides: /static_files/presentations/m1_week5_and_6_dynamic_programming.zip
 tldr: "We started by examining the tail recursion techniqure which I did not explain well last session. Next, we explained the concept of dynamic programming with first the fibonacci series and then with the Money Change problem. We will continue our discussion on dynamic programming next week."
 #thumbnail: /static_files/presentations/lec.jpg
+notetaker: آقای سهراب نمازی
 ---

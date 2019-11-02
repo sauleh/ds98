@@ -8,4 +8,5 @@ codes: https://drive.iust.ac.ir/index.php/s/pvH40tElHCvu3MG/download?path=%2FCod
 ext_slides: /static_files/presentations/m1_week4_divide_and_conquer.zip
 tldr: "Divide and Conqure."
 #thumbnail: /static_files/presentations/lec.jpg
+notetaker: خانم فاطمه احمدی
 ---

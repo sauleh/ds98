@@ -8,4 +8,5 @@ codes: https://drive.iust.ac.ir/index.php/s/pvH40tElHCvu3MG/download?path=%2FCod
 ext_slides: /static_files/presentations/m1_week3_greedy_algorithms.zip
 tldr: "Greedy Algorithms. Reading: CLRS Chapter IV - Section 16"
 #thumbnail: /static_files/presentations/lec.jpg
+notetaker: خانم زهرا حسینی
 ---
