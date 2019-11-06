@@ -38,8 +38,8 @@ Alternatively, you can download the latex template from [here](../static_files/r
         {% endif %}
 
         {% if lecture.notetaker %}
-            <strong>Note Taker:</strong> 
-            {{ lecture.notetaker }}
+            <strong>Note Taker:</strong>
+            <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; font-size:12pt;">{{ lecture.notetaker }}</span>
             <br/>
         {% endif %}
 
