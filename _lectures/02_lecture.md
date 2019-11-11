@@ -8,5 +8,6 @@ codes: https://drive.iust.ac.ir/index.php/s/pvH40tElHCvu3MG/download?path=%2FCod
 ext_slides: /static_files/presentations/m1_week2_algorithmic_warmup.zip
 tldr: "Course Overview. What is an algorithm? Reading: CLRS Chapter I - Sections 1.1 and 1.2"
 notetaker: آقای میلاد اسفندیاری
+notes: /static_files/notes/Lecture02.pdf
 #thumbnail: /static_files/presentations/lec.jpg
 ---

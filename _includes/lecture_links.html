@@ -15,6 +15,14 @@
       {{ include.lecture.ext_slides | prepend: site.baseurl }} 
     {% endif %}">ext slides</a>]
     {% endif %}
+    {% if include.lecture.notes %}
+    [<a title="Download notes (pdf)" href="
+    {% if include.lecture.notes contains '://' %}
+      {{ include.lecture.notes }} 
+    {% else %}
+      {{ include.lecture.notes | prepend: site.baseurl }} 
+    {% endif %}">notes</a>]
+    {% endif %}
     {% if include.lecture.video %}
     [<a title="Download video (mp4)" href="
     {% if include.lecture.video contains '://' %}

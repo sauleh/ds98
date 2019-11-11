@@ -8,5 +8,6 @@ codes: https://drive.iust.ac.ir/index.php/s/pvH40tElHCvu3MG/download?path=%2FCod
 ext_slides: /static_files/presentations/m1_week2_algorithmic_warmup.zip
 tldr: "GCD naive and efficient algorithm. Big-O notation. Reading: CLRS Chapter I - Sections 2.2, 2.3, 3.1, 3.2"
 notetaker: آقای محمد امید قسوری
+notes: /static_files/notes/Lecture03.pdf
 #thumbnail: /static_files/presentations/lec.jpg
 ---
