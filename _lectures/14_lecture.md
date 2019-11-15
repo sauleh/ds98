@@ -9,4 +9,5 @@ ext_slides: /static_files/presentations/m2_week1_basic_data_structures.zip
 notetaker: آقای محمد مصطفی رستم‌خانی
 tldr: We spent the entire lecture on linked lists. After explaining what a linked list is, we demonstrated how it is implemented in C. Next, we demonstrated how it is implemented in C# while explaining the difference between value types and reference types. Finally, we explained how linked lists are used for memory management in the operating system.
 #thumbnail: /static_files/presentations/lec.jpg
+notes: /static_files/notes/Lecture14.pdf
 ---

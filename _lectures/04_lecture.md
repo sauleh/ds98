@@ -9,4 +9,5 @@ ext_slides: /static_files/presentations/m1_week3_greedy_algorithms.zip
 tldr: "Greedy Algorithms. Reading: CLRS Chapter IV - Section 16"
 #thumbnail: /static_files/presentations/lec.jpg
 notetaker: خانم زهرا حسینی
+notes: /static_files/notes/Lecture04.pdf
 ---
