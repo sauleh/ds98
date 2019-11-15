@@ -9,4 +9,5 @@ ext_slides: /static_files/presentations/m1_week5_and_6_dynamic_programming.zip
 tldr: We continued our discussion on dynamic programming with the minimum edit distance problem. We first motivated the problem with an example from biology and also from natural language processing. We then went on to explain the details of how the algorithm works.
 #thumbnail: /static_files/presentations/lec.jpg
 notetaker: آقای سهند نظرزاده
+#notes: /static_files/notes/Lecture11.pdf
 ---

@@ -9,4 +9,5 @@ ext_slides: /static_files/presentations/m1_week4_divide_and_conquer.zip
 tldr: "Divide and Conqure."
 #thumbnail: /static_files/presentations/lec.jpg
 notetaker: خانم فاطمه احمدی
+#notes: /static_files/notes/Lecture05.pdf
 ---
