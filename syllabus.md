@@ -17,12 +17,12 @@ permalink: /syllabus/
 | 7  |  8/11  |  8/13 | Basic Data Structures             | Dynamic Programming 1          | A6     |  Yalsavar  | Moradi     | Wednesday Off |
 | 8  |  8/18  |  8/20 | Dynamic Array + Amortized Analysis| Dynamic Programming 2          | A7     |  Pirhadi   | Mirzaei    | Basic Sceince Midterms |
 | 9  |  8/25  |  8/27 | Priority Queue and Disjoint Set   | Basic Data Structures          | A8     |Abdollahpour| Kodeiri    | Basic Sceince Midterms |
-| 10 |  9/02  |  9/04 | Hashing                           | Priority Queue and Disjoint Set| A9     |  Ghaderan  | Moghadami  | Basic Sceince Midterms |
-| 11 |  9/09  |  9/11 | BST 1                             | Hash Table and Hash Functions  | A10    |  Mahmoudi  | Mirshekari | |
-| 12 |  9/16  |  9/18 | BST 2                             | BST                            | A11    |  Yalsavar  | Moradi     | |
-| 13 |  9/23  |  9/25 | Graph Decomposition 1             | Programming Exam 2             | E2     |  Pirhadi   | Mirzaei    | |
-| 14 |  9/30  | 10/02 | Graph Decomposition 2             | Graph1                         | A12, W3|Abdollahpour| Kodeiri    | |
-| 15 | 10/07  | 10/09 | Red-black Tree, B-Tree            | Graph2                         | A13    |  Ghaderan  | Moghadami  | |
+| 10 |  9/02  |  9/04 | Hashing                           | -                              | -      |  Ghaderan  | Moghadami  | Basic Sceince Midterms |
+| 11 |  9/09  |  9/11 | BST 1                             | Priority Queue and Disjoint Set| A9     |  Ghaderan  | Moghadami  |
+| 12 |  9/16  |  9/18 | BST 2                             | Hash Table and Hash Functions  | A10    |  Mahmoudi  | Mirshekari | |
+| 13 |  9/23  |  9/25 | Graph Decomposition 1             | BST                            | A11    |  Yalsavar  | Moradi     | |
+| 14 |  9/30  | 10/02 | Graph Decomposition 2             | Programming Exam 2             | E2     |  Pirhadi   | Mirzaei    | |
+| 15 | 10/07  | 10/09 | Red-black Tree, B-Tree            | Graph1                         | A12, W3|Abdollahpour| Kodeiri    | |
 
 
   * A*: Programming Assignments
