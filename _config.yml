@@ -42,7 +42,7 @@ collections:
     assignments:
         output: true
     announcements:
-        output: false
+        output: true
 
 sass:
     style: :compressed        
