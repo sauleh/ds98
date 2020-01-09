@@ -23,8 +23,8 @@ Please see [this](https://drive.iust.ac.ir/index.php/s/S9pCGxfQQdumMmE/download?
 {% if asg.attachment %}
 &nbsp; <a title="Download attachments (zip)" href="{{ asg.attachment | prepend: site.baseurl }}"><i class="fas fa-file-archive"></i></a>
 {% endif %}
-{% if asg.solution %}
-&nbsp; <a title="Solution" href="{{ asg.solution | prepend: site.baseurl }}"><i class="fas fa-file-pdf"></i></a>
+{% if asg.solutions %}
+&nbsp; <a title="Solution" href="{{ asg.solutions | prepend: site.baseurl }}"><i class="fas fa-file-pdf"></i></a>
 {% endif %}
 </strong> 
       </li>
