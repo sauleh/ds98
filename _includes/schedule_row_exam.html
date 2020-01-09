@@ -6,6 +6,19 @@
 </div>
 <div class="col col-2" style="font-weight: bold" data-label="Description">
     {{ include.event.description }}
+    <br>
+    {% if include.event.solution %}
+    [<a title="Download exam solution" href="
+        {{ include.event.solution | prepend: site.baseurl }} 
+    ">solution</a>]{% endif %}
+    {% if include.event.examdoc %}
+    [<a title="Download exam" href="
+        {{ include.event.examdoc | prepend: site.baseurl }} 
+    ">exam</a>]{% endif %}
+    {% if include.event.attachment %}
+    [<a title="Download exam attachment" href="
+        {{ include.event.attachment | prepend: site.baseurl }} 
+    ">attachment</a>]{% endif %}
 </div>
 <div class="col col-4" data-label="Course Material">
     {{ include.event.content}}
