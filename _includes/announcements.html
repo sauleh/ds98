@@ -30,12 +30,12 @@
             {% elsif n.type == 'assignment' %}
                 New Assignment released: [<a href="{{ n.url | prepend: site.baseurl }}">{{ n.title }}</a>]
             {% elsif n.type == 'exam' %}
-                {{ n.description }} - 
+                {{ n.description }}
                 {% if n.solution %}
-                    <a href="{{ n.solution | prepend: site.baseurl }}"><i class="fas fa-file-pdf"></i></a>
+                    [<a href="{{ n.solution | prepend: site.baseurl }}">solution</a>]
                 {% endif %}
-                {% if n.examdoc %} 
-                    <a href="{{ n.examdoc | prepend: site.baseurl }}"><i class="fas fa-file-pdf"></i></a>
+                {% if n.examdoc %}
+                    [<a href="{{ n.examdoc | prepend: site.baseurl }}">doc</a>]
                 {% endif %}
             {% else%}
                 {{ n.description }}
