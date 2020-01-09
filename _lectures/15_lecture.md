@@ -9,5 +9,5 @@ ext_slides: /static_files/presentations/m2_week1_basic_data_structures.zip
 notetaker: آقای صدرا خاموشی
 tldr: Today we discussed Stack, Queue and Trees and how they may be used. We also looked at their .NET implementation.
 #thumbnail: /static_files/presentations/lec.jpg
-#notes: /static_files/notes/Lecture15.pdf
+notes: /static_files/notes/Lecture15.pdf
 ---

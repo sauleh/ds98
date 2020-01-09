@@ -9,5 +9,5 @@ ext_slides: /static_files/presentations/m2_week4_hashing.zip
 notetaker: آقای آرمین غلام‌پور
 tldr: First we discussed the path compression heuristic for disjoint sets. Next we explained hash tables.
 #thumbnail: /static_files/presentations/lec.jpg
-#notes: /static_files/notes/Lecture16.pdf
+notes: /static_files/notes/Lecture19.pdf
 ---

@@ -9,5 +9,5 @@ ext_slides: /static_files/presentations/m2_week2_dynamic_arrays_and_amortized_co
 notetaker: آقای هادی شیخی
 tldr: We looked at the dynamic array implementations in the .NET library as well as the C++ STL library. We also explained two techniques for amortized analysis. 
 #thumbnail: /static_files/presentations/lec.jpg
-#notes: /static_files/notes/Lecture16.pdf
+notes: /static_files/notes/Lecture16.pdf
 ---

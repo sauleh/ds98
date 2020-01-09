@@ -9,5 +9,5 @@ ext_slides: /static_files/presentations/m2_week3_priority_queues_and_disjoint_se
 notetaker: آقای حسن صبور
 tldr: First, we looked at the C++ STL priority_queue class and then the heapq module in python to see how one would use a priority queue. We then discussed how one might implement it. Next, we looked at the Binary MaxHeap implementation and how it can guarantee log-n computational complexity for Insert and ExtractMax. Finally, we discussed how we can use a MaxHeap to implement HeapSort.
 #thumbnail: /static_files/presentations/lec.jpg
-#notes: /static_files/notes/Lecture16.pdf
+#notes: /static_files/notes/Lecture17.pdf
 ---

@@ -9,5 +9,5 @@ ext_slides: /static_files/presentations/m2_week4_hashing.zip
 notetaker: آقای مجتبی نافذ
 tldr: We first reviewed hash tables. Next we discussed what a good hash function looks like. We deomonstrated collision rate of different hash functions (the code is attached). We also discussed how one could use flaws of a hash function for a Denial of Service attack. We introduced what a Universal Family hash function is and introduced a university family hash function for integers and strings. Finally, we demonstrated the Rabin Karp algorithm for string matching using the string hash function introduced earlier to match a pattern of size P against a text of size T in O(P+T) time.
 #thumbnail: /static_files/presentations/lec.jpg
-#notes: /static_files/notes/Lecture16.pdf
+#notes: /static_files/notes/Lecture22.pdf
 ---

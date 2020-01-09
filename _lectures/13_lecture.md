@@ -9,5 +9,5 @@ ext_slides: /static_files/presentations/m2_week1_basic_data_structures.zip
 notetaker: خانم غزل زمانی‌نژاد
 tldr: We started the lecture by answering questions about the maximum arithmetic problem. We then moved onto the Basic Data Structures section of our syllabus. We demonstrated how pointer arithmetic is used to access array elements in O(1). We also discussed the order of insert/delete to the beginning, middle and end of the array.
 #thumbnail: /static_files/presentations/lec.jpg
-#notes: /static_files/notes/Lecture13.pdf
+notes: /static_files/notes/Lecture13.pdf
 ---

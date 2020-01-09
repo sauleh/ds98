@@ -9,5 +9,5 @@ ext_slides: /static_files/presentations/m2_week5_binary_search_trees.zip
 notetaker: آقای هژار آزیز
 tldr: Today we introduced AVL trees and updated the Insert and Delete operations to maintain the AVL property. Next, we introduced efficient Split and Merge operations for AVL trees. Finally, we introduced an example where we can use split and merge operations to solve it efficiently, in addition to compute order statistics in BSTs. 
 #thumbnail: /static_files/presentations/lec.jpg
-#notes: /static_files/notes/Lecture16.pdf
+notes: /static_files/notes/Lecture24.pdf
 ---

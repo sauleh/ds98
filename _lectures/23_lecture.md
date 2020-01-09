@@ -9,5 +9,5 @@ ext_slides: /static_files/presentations/m2_week5_binary_search_trees.zip
 notetaker: خانم فاطمه امیدی
 tldr: We started off by explaining what a binary search tree is, whey we need it and how to perform basic operations. Next, we analyzed computational complexity of basic operations. We concluded with the need to maintain a balanced tree. We introduced the rotate-left and rotate-right operations. Next session we will will introduce the AVL tree.
 #thumbnail: /static_files/presentations/lec.jpg
-#notes: /static_files/notes/Lecture16.pdf
+notes: /static_files/notes/Lecture23.pdf
 ---
