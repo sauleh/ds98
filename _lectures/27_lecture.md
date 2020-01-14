@@ -6,8 +6,8 @@ slides: https://drive.iust.ac.ir/index.php/s/S9pCGxfQQdumMmE/download?path=%2FSl
 video: https://drive.iust.ac.ir/index.php/s/S9pCGxfQQdumMmE/download?path=%2FVideos&files=S27.mp4
 #codes: https://drive.iust.ac.ir/index.php/s/pvH40tElHCvu3MG/download?path=%2FCode&files=S23.zip
 ext_slides: /static_files/presentations/m3_week1_and_2_graph_decomposition.zip
-notetaker: آقای رضا علیدوست
+notetaker: آقای رضا علیدوست و خانم ملیکا احمدی
 tldr: 
 #thumbnail: /static_files/presentations/lec.jpg
-#notes: /static_files/notes/Lecture16.pdf
+notes: /static_files/notes/Lecture27.pdf
 ---
