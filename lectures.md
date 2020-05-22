@@ -4,7 +4,8 @@ title: Lectures
 permalink: /lectures/
 ---
 
-You can download the lectures here (in PDF format). I will try to upload lectures prior to their corresponding classes. 
+> *Final Lecture notes can be found [here](static_files/LectureNotes.pdf)* (last update: 5/22/2020)
+
 
 For students who have [signed](https://www.signupgenius.com/go/20f0b4da9a72fa1fa7-note) up to take notes, they should create an account with overleaf.com. Please note you need a VPN connection to log onto Overleaf. Then log onto [this](https://www.overleaf.com/latex/templates/iust-student-course-note-template/pgcyqhkkxcqr) url and select "Open as Template". Once the template is opened, make sure "XeLaTeX" is selected as the compiler in the menu and that it compiles correctly. Then start by opening the session.tex file, updating the Subject, Author, Date, ... fields and start creating notes. Notes should be taken in Farsi. Please note that the Overleaf editor is not the easiest editor to work with when typing Farsi and English. Keeping different languages on seperate lines helps. You can select the "Rich Text" editor or just copy-past the text into your local editor and then paste it back when you are done editing and ready to compile. Alrternatively you can download MikTeX and TeXStudio and edit it on your local box. Once you are done, rename your project to IUST_DS98_SessionX (replace X by session number) and share it with my email (first name, at gmail). Please let me know if you have any questions.
 
